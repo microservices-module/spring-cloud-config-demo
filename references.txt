@@ -1,10 +1,9 @@
 ++++ Installations Starts ++++
-- JDK-11:
-https://www.oracle.com/java/technologies/javase-jdk11-downloads.html
-- Important JDK-8 : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
++++ Installations Starts ++++
+JDK-21 (Recommended):
+https://www.oracle.com/java/technologies/downloads/#jdk21-windows
 Set Path of JAVA_HOME
-https://docs.oracle.com/cd/E19182-01/820-7851/inst_cli_jdk_javahome_t/
-- Recommend to install JDK-11
+https://docs.oracle.com/en/java/javase/21/install/overview-jdk-installation.html
 - Optional: Maven: https://maven.apache.org/download.cgi
 	https://www.mkyong.com/maven/how-to-install-maven-in-windows/
 	Download Maven: https://maven.apache.org/download.cgi
@@ -17,18 +16,14 @@ Intellij Idea(Community): https://www.jetbrains.com/idea/download/#section=windo
 
 ---- Installation ends ----
 
-**** Install JDK-11 before proceeding ****
+**** Install JDK-21 before proceeding ****
 
 ++++ Spring Boot Links Starts ++++
-
++++ Spring Boot Links Starts ++++
 https://spring.io/projects
 https://spring.io/projects/spring-boot
 https://spring.io/guides/gs/spring-boot/
-latest: https://docs.spring.io
-https://docs.spring.io/spring-boot/docs/2.3.3.RELEASE/reference/htmlsingle/#using-boot-starter
-https://docs.spring.io/spring-boot/docs/2.2.2.RELEASE/reference/htmlsingle/
-https://spring.io/guides/gs/spring-boot/
-https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-documentation
+https://docs.spring.io/spring-boot/docs/current/reference/html/
 
 Reactive programming links:
 https://projectreactor.io/
